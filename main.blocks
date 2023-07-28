@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="-vUKmP.2G-)eot%4llg6" x="0" y="0"><statement name="HANDLER"><block type="radio_datagram_send_string" id=")-vg!3FseHN?DxCNw8|q"><value name="msg"><shadow type="text" id="J-@L/d1uu_o~c@8Jn-m-"><field name="TEXT">hoi dit bericht is van finn</field></shadow></value></block></statement></block></xml>
